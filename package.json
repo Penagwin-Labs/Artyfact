@@ -1,0 +1,22 @@
+{
+  "name": "artyfact",
+  "version": "0.0.5",
+  "description": "A small, secure way to deploy artifacts to a server, without ssh or ftp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Penagwin-Labs/Artyfact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Penagwin-Labs/Artyfact/issues"
+  },
+  "homepage": "https://github.com/Penagwin-Labs/Artyfact#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
